@@ -1,6 +1,6 @@
 # Economy of Tests
 
-![Birds Migrating](economy-of-tests.png)
+![Birds Migrating](economy-of-tests.jpg)
 
 _This is a joint post with [Mathias
 Verraes](https://twitter.com/mathiasverraes). You can expect more of these._

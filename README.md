@@ -1,10 +1,10 @@
 ![Konstantin Kudryashov running workshop](workshopping.jpeg)
 
-Although I’ve written software for years, I realised only recently that writing
-code was more about communicating with humans than computers. To become a
-better engineer, I realised I needed to become a better communicator both
-inside and outside the code to create a stronger connection between the code I
-write and the people it helps.
+Hi. My name is **Konstantin Kudryashov**. Although I’ve written software for
+years, I realised only recently that writing code was more about communicating
+with humans than computers. To become a better engineer, I realised I needed to
+become a better communicator both inside and outside the code to create a
+stronger connection between the code I write and the people it helps.
 
 As a technical consultant as well as an engineer, I spend as much time working
 with business stakeholders and sticky notes as I do with fellow engineers and a

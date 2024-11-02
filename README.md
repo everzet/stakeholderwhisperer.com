@@ -1,5 +1,3 @@
-# Stakeholder Whisperer
-
 ![Konstantin Kudryashov running workshop](workshopping.jpeg)
 
 Although I’ve written software for years, I realised only recently that writing

@@ -1,6 +1,6 @@
 # Maximum Feasible Miracle
 
-![Magician with slides](background.png)
+![Magician with slides](mfm.png)
 
 > When a distinguished but elderly scientist states that something is possible,
 > he is almost certainly right. When he states that something is impossible, he

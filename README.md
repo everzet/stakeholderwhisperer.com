@@ -16,7 +16,7 @@ find this blog a useful starting point for thinking about software development
 as a talking, rather than writing, activity and would be interested to hear
 your thoughts on the subjects discussed here.
 
-## Articles
+## Posts
 
 ### [Maximum Feasible Miracle](posts/2019/6/maximum-feasible-miracle.md)
 

@@ -1,6 +1,6 @@
 # Stakeholder Whisperer
 
-![Konstantin Kudryashov running workshop](workshopping.png)
+![Konstantin Kudryashov running workshop](workshopping.jpeg)
 
 Although I’ve written software for years, I realised only recently that writing
 code was more about communicating with humans than computers. To become a
